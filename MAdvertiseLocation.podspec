@@ -12,7 +12,7 @@ s.author           = { "MAdvertise" => "http://madvertise.com/",
 "Technical Assistance" => "admin@madvertise.com"
 }
 
-s.source           = { :http => "https://github.com/azerion/BlueStackLocation.git", :tag => "v#{s.version}" }
+s.source           = { :git => "https://github.com/azerion/BlueStackLocation.git", :tag => "v#{s.version}" }
 #s.source           = { :http => "https://bitbucket.org/mngcorp/mngads-demo-ios/downloads/MAdvertiseLocation-v3.1.5.zip" }
 s.platform     = :ios, '12.0'
 s.requires_arc = true
