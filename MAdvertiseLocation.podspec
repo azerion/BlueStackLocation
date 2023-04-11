@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "MAdvertiseLocation"
-s.version          = "3.1.6"
+s.version          = "3.1.7.preview.1"
 s.summary          = "MAdvertise Location SDK is an IOS project developed with SWIFT programming language. It help to collect and track geolcation data."
 
 s.homepage         = "https://bitbucket.org/mngcorp/mngads-demo-ios/wiki/MadvertiseLocation"
@@ -21,9 +21,6 @@ s.frameworks = 'AdSupport'
 s.swift_version = '5'
 s.vendored_frameworks = 'MAdvertiseLocation.xcframework'
 s.preserve_paths = "MAdvertiseLocation.xcframework"
-
-#s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-#s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
 end
 
