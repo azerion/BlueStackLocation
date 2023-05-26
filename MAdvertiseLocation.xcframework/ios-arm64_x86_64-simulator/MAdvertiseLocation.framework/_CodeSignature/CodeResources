@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		J0BVHlEtB+ZZ7B60cWhsjntI5XM=
+		gNgLPxGyCsGfW1HkZ87DSSfOceo=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6C/YYuLfe7YGfo3mfWEVRYjRpLk=
+		Uua4UA96aNhmPu6ItG4/ncyOOwI=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		J0BVHlEtB+ZZ7B60cWhsjntI5XM=
+		gNgLPxGyCsGfW1HkZ87DSSfOceo=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lESgTt1sp6oacHlVjTSmAmy+lu8=
+		u5l05OK+T7Fg0KgFqy+f6hbdpf8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -134,11 +134,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J0BVHlEtB+ZZ7B60cWhsjntI5XM=
+			gNgLPxGyCsGfW1HkZ87DSSfOceo=
 			</data>
 			<key>hash2</key>
 			<data>
-			7BrcYwTJTZ+mChYXarruwCyRwYeWs8a0c1hwbyZmnb4=
+			zPpTgfztAINemi5j/t+C/rKPgGPNh8ucRxYxMsv3/qg=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -178,22 +178,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6C/YYuLfe7YGfo3mfWEVRYjRpLk=
+			Uua4UA96aNhmPu6ItG4/ncyOOwI=
 			</data>
 			<key>hash2</key>
 			<data>
-			lz3R3s4YVsVPoIIk5uOxNViaN37d5+PfWg8tijKcTWg=
+			URllp5IKRE9B/ewW9xgi0i/1ZcM4NW1prbIIUMxXwfw=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J0BVHlEtB+ZZ7B60cWhsjntI5XM=
+			gNgLPxGyCsGfW1HkZ87DSSfOceo=
 			</data>
 			<key>hash2</key>
 			<data>
-			7BrcYwTJTZ+mChYXarruwCyRwYeWs8a0c1hwbyZmnb4=
+			zPpTgfztAINemi5j/t+C/rKPgGPNh8ucRxYxMsv3/qg=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lESgTt1sp6oacHlVjTSmAmy+lu8=
+			u5l05OK+T7Fg0KgFqy+f6hbdpf8=
 			</data>
 			<key>hash2</key>
 			<data>
-			A7ibrYWHDPcsQH0ypjf2oqICMI9IaqeZV9LzhWxhUGo=
+			Kml93ftzDZc/cHECdfVqygx1qDcfoT0oGjb/MhCGQGc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
