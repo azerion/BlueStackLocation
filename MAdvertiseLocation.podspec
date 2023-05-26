@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "MAdvertiseLocation"
-s.version          = "3.1.7.preview.1"
+s.version          = "3.1.7"
 s.summary          = "MAdvertise Location SDK is an IOS project developed with SWIFT programming language. It help to collect and track geolcation data."
 
 s.homepage         = "https://bitbucket.org/mngcorp/mngads-demo-ios/wiki/MadvertiseLocation"
