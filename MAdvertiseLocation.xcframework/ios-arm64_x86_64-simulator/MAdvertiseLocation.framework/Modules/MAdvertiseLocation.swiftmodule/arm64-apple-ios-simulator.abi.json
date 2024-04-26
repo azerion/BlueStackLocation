@@ -868,357 +868,357 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/MadvertiseLocationFactory\/MAdvertiseLocation.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/MadvertiseLocationFactory\/MAdvertiseLocation.swift",
       "kind": "StringLiteral",
       "offset": 328,
       "length": 3,
       "value": "\"0\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/MadvertiseLocationFactory\/MAdvertiseLocation.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/MadvertiseLocationFactory\/MAdvertiseLocation.swift",
       "kind": "BooleanLiteral",
       "offset": 462,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/MadvertiseLocationFactory\/MAdvertiseLocation.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/MadvertiseLocationFactory\/MAdvertiseLocation.swift",
       "kind": "StringLiteral",
       "offset": 200,
       "length": 17,
       "value": "\"MAdvertiseLocation.BlueStackLocation\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 436,
       "length": 8,
-      "value": "\"v3.1.7\""
+      "value": "\"v3.1.8\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 585,
       "length": 26,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss'Z'\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 729,
       "length": 6,
       "value": "180000"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 805,
       "length": 5,
       "value": "10000"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "FloatLiteral",
       "offset": 880,
       "length": 4,
       "value": "50.0"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 954,
       "length": 4,
       "value": "5000"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1028,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1099,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1172,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1245,
       "length": 5,
       "value": "300.0"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1320,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "BooleanLiteral",
       "offset": 1394,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1469,
       "length": 8,
       "value": "86400000"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 1612,
       "length": 25,
       "value": "\"LOCCURRENTDATABASECOUNT\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 1708,
       "length": 22,
       "value": "\"LOCLASTLOCATIONSAVED\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 1801,
       "length": 23,
       "value": "\"LOCLASTLOCATIONSENDED\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 1895,
       "length": 28,
       "value": "\"LOCLASTDATESENDEDLOCATIONS\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 1994,
       "length": 23,
       "value": "\"Loc-Current-Time-Diff\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 2081,
       "length": 20,
       "value": "\"LOC_DATE_SENDED_WS\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 2220,
       "length": 20,
       "value": "\"LOC_RSYNC_INTERVAL\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 2311,
       "length": 15,
       "value": "\"LOC_FREQUENCY\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 2397,
       "length": 18,
       "value": "\"LOC_MIN_DISTANCE\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 2486,
       "length": 19,
       "value": "\"LOC_DATABASE_SIZE\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 2576,
       "length": 19,
       "value": "\"LOC_DATABASE_DAYS\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 2666,
       "length": 20,
       "value": "\"gdpr-consentString\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 2757,
       "length": 21,
       "value": "\"Loc-Max-Daily-Event\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 2849,
       "length": 18,
       "value": "\"Loc-Max-Accuracy\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 2938,
       "length": 20,
       "value": "\"Loc-Delta-Accuracy\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 3029,
       "length": 11,
       "value": "\"Loc-Debug\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 3111,
       "length": 33,
       "value": "\"MadvertiseConsent-ConsentString\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 3215,
       "length": 18,
       "value": "\"Loc-Current-Time\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 3304,
       "length": 18,
       "value": "\"Loc-CheckConsent\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 3393,
       "length": 9,
       "value": "\"accAuth\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 3473,
       "length": 5,
       "value": "\"att\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 3588,
       "length": 26,
       "value": "\"IABConsent_ConsentString\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 3688,
       "length": 33,
       "value": "\"MadvertiseConsent_ConsentString\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 3793,
       "length": 17,
       "value": "\"IABTCF_TCString\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 3878,
       "length": 30,
       "value": "\"BlueStackConsent_UserId_Flag\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 4073,
       "length": 32,
       "value": "\"https:\/\/dispatcher.mng-ads.com\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Global\/LocationConstants.swift",
       "kind": "StringLiteral",
       "offset": 4175,
       "length": 17,
       "value": "\"\/%@\/location\/%@\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Builders\/MadvertiseBuilder.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Builders\/MadvertiseBuilder.swift",
       "kind": "StringLiteral",
       "offset": 402,
       "length": 3,
       "value": "\"0\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Network\/MadvertiseRequestBuilder.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Network\/MadvertiseRequestBuilder.swift",
       "kind": "StringLiteral",
       "offset": 354,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Network\/MadvertiseRequestBuilder.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Network\/MadvertiseRequestBuilder.swift",
       "kind": "StringLiteral",
       "offset": 379,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Network\/MadvertiseRequestBuilder.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Network\/MadvertiseRequestBuilder.swift",
       "kind": "StringLiteral",
       "offset": 354,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Network\/MadvertiseRequestBuilder.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Network\/MadvertiseRequestBuilder.swift",
       "kind": "StringLiteral",
       "offset": 379,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/Network\/MadvertiseRequestBuilder.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/Network\/MadvertiseRequestBuilder.swift",
       "kind": "IntegerLiteral",
       "offset": 457,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/MadvertiseLocationManager\/MadvertiseLocationManager.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/MadvertiseLocationManager\/MadvertiseLocationManager.swift",
       "kind": "BooleanLiteral",
       "offset": 868,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/Blabla\/Documents\/Projects\/MAdvertise\/Location\/MAdvertiseLocation\/MAdvertiseLocation\/MadvertiseLocationManager\/MadvertiseLocationManager.swift",
+      "filePath": "\/Volumes\/Development\/BlueStack\/madvertise-location-sdk-ios\/MAdvertiseLocation\/MAdvertiseLocation\/MadvertiseLocationManager\/MadvertiseLocationManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1032,
       "length": 5,
