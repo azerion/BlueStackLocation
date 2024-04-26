@@ -1,7 +1,7 @@
 framework module MAdvertiseLocation {
   umbrella header "MAdvertiseLocation.h"
-
   export *
+
   module * { export * }
 }
 

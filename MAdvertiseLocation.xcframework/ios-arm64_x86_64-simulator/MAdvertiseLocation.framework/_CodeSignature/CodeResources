@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MAdvertiseLocation-Swift.h</key>
 		<data>
-		4z9H0Fd8vHDJ88uvU+jUhld7L3w=
+		RV1tAfkugTTqlGLY/zDPLSL1ehE=
 		</data>
 		<key>Headers/MAdvertiseLocation.h</key>
 		<data>
@@ -26,51 +26,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iA/0+O2/gmkHUTiB7uOIQRbL9WI=
+		WebznStXCXXe8EiA6SXf5UgIUZE=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		gNgLPxGyCsGfW1HkZ87DSSfOceo=
+		FNeTDfntAIIUofyG58dhpRzcgM0=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		eoVn/xyjhGp5qO16ZcxiI6m6YR4=
+		2+tX0hJdLj2/MpPj8Fn3/62u2PU=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		asAuypqrbm/cx0AfcY4MDrBcSQY=
+		QCVbhs/o5/E343KoScDovIvzRqU=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		eoVn/xyjhGp5qO16ZcxiI6m6YR4=
+		2+tX0hJdLj2/MpPj8Fn3/62u2PU=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Uua4UA96aNhmPu6ItG4/ncyOOwI=
+		z8msPO03OPAGqlQJUAXrqwckWxg=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		gNgLPxGyCsGfW1HkZ87DSSfOceo=
+		FNeTDfntAIIUofyG58dhpRzcgM0=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		h36SmHxv1P1NAm/TPzSw13f3lGI=
+		foX8NELcjR/mMsY60jg4QJMDr50=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		jaRu9Lu8mDVcPFXPCxisrn3JVGc=
+		d+arR0iHSpDWfnG+nhStYTRuLb4=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		h36SmHxv1P1NAm/TPzSw13f3lGI=
+		foX8NELcjR/mMsY60jg4QJMDr50=
 		</data>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		u5l05OK+T7Fg0KgFqy+f6hbdpf8=
+		S0YOamZtPa8ooC6jK3vUXBu+EbU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		S984YX/JKBh8/3Dph1xuWBs6Ui4=
+		so03/93HA9DC6yJ2/jLh40Q9UCM=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		1aqgDhw7x7duyDwwN+BdcKuK89c=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -79,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4z9H0Fd8vHDJ88uvU+jUhld7L3w=
+			RV1tAfkugTTqlGLY/zDPLSL1ehE=
 			</data>
 			<key>hash2</key>
 			<data>
-			z/kxWFEj8Prk6SfV7B7FE032ST9oP3VRkehSgpgWuGQ=
+			RCNH+H3bxQJBNvmvvNaxjgLfBoSmKqR9mnXrLVKhCoI=
 			</data>
 		</dict>
 		<key>Headers/MAdvertiseLocation.h</key>
@@ -134,121 +138,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gNgLPxGyCsGfW1HkZ87DSSfOceo=
+			FNeTDfntAIIUofyG58dhpRzcgM0=
 			</data>
 			<key>hash2</key>
 			<data>
-			zPpTgfztAINemi5j/t+C/rKPgGPNh8ucRxYxMsv3/qg=
+			0ifGfyWlSNPptyqzxJ6+CFdK8OKd2O49zh8IgRoN2/Q=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eoVn/xyjhGp5qO16ZcxiI6m6YR4=
+			2+tX0hJdLj2/MpPj8Fn3/62u2PU=
 			</data>
 			<key>hash2</key>
 			<data>
-			l+zMp2Xjnr8WvglfcHc1u1CXrRzSbcQgpkoA32BrKlQ=
+			U70etqg51c33U5PI8dEiLtNWuEYJdRwFrGDQT6SgbIQ=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			asAuypqrbm/cx0AfcY4MDrBcSQY=
+			QCVbhs/o5/E343KoScDovIvzRqU=
 			</data>
 			<key>hash2</key>
 			<data>
-			0vPEmcobqldeOIum96bD81JHN0rGP/xc3Wz1tNmbC3Q=
+			FK0dXvr8PTh96xnAx7CWWNbisdebT1m9q7IcvXAqXy4=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eoVn/xyjhGp5qO16ZcxiI6m6YR4=
+			2+tX0hJdLj2/MpPj8Fn3/62u2PU=
 			</data>
 			<key>hash2</key>
 			<data>
-			l+zMp2Xjnr8WvglfcHc1u1CXrRzSbcQgpkoA32BrKlQ=
+			U70etqg51c33U5PI8dEiLtNWuEYJdRwFrGDQT6SgbIQ=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Uua4UA96aNhmPu6ItG4/ncyOOwI=
+			z8msPO03OPAGqlQJUAXrqwckWxg=
 			</data>
 			<key>hash2</key>
 			<data>
-			URllp5IKRE9B/ewW9xgi0i/1ZcM4NW1prbIIUMxXwfw=
+			wc0sgRJSXMroAlfe5A7zDzE5S5qk/1L+tHo+WM9o0Bc=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gNgLPxGyCsGfW1HkZ87DSSfOceo=
+			FNeTDfntAIIUofyG58dhpRzcgM0=
 			</data>
 			<key>hash2</key>
 			<data>
-			zPpTgfztAINemi5j/t+C/rKPgGPNh8ucRxYxMsv3/qg=
+			0ifGfyWlSNPptyqzxJ6+CFdK8OKd2O49zh8IgRoN2/Q=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h36SmHxv1P1NAm/TPzSw13f3lGI=
+			foX8NELcjR/mMsY60jg4QJMDr50=
 			</data>
 			<key>hash2</key>
 			<data>
-			HklumyG4G+fyZFITcO9BE3RH/bXiugPrsqWSbc0cAAs=
+			KHEoUKCwBE2z+SLPvPoogKiix6eh47qFo4XFUIW9diA=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jaRu9Lu8mDVcPFXPCxisrn3JVGc=
+			d+arR0iHSpDWfnG+nhStYTRuLb4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Oioka367tI5jcFrPigS0DN7JtNuQolPEFmHUhfpGvRk=
+			weL6mOhw3771W2CrqdTg3ZE4qw9b7qQ0bVD256CA9Oc=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h36SmHxv1P1NAm/TPzSw13f3lGI=
+			foX8NELcjR/mMsY60jg4QJMDr50=
 			</data>
 			<key>hash2</key>
 			<data>
-			HklumyG4G+fyZFITcO9BE3RH/bXiugPrsqWSbc0cAAs=
+			KHEoUKCwBE2z+SLPvPoogKiix6eh47qFo4XFUIW9diA=
 			</data>
 		</dict>
 		<key>Modules/MAdvertiseLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u5l05OK+T7Fg0KgFqy+f6hbdpf8=
+			S0YOamZtPa8ooC6jK3vUXBu+EbU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kml93ftzDZc/cHECdfVqygx1qDcfoT0oGjb/MhCGQGc=
+			pn4UBB5vc2lY0ZvFwjQHqIi9JjpwAzp0tOiv9I4qD6c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S984YX/JKBh8/3Dph1xuWBs6Ui4=
+			so03/93HA9DC6yJ2/jLh40Q9UCM=
 			</data>
 			<key>hash2</key>
 			<data>
-			CRGZ6+apY4nPTn2HZR21vmHzMuDRrKGwjaakuTtvLKA=
+			mQHSdpiA1RLFMFM00KSecOt08HDbKpamczDE9RuCyvc=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1aqgDhw7x7duyDwwN+BdcKuK89c=
+			</data>
+			<key>hash2</key>
+			<data>
+			fji9WCemkVysxBUD7FhlP5TjjOeuiVJACYDaeMLOw9c=
 			</data>
 		</dict>
 	</dict>
